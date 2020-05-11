@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed8c1c5a-a456-4bd8-b4b8-723924f2ffdc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XopLGfkiwa7AOIoQ19TsmbK9ag" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.sklearnKM">
+    <configuration name="Gaussian (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hw2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/submit/part1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/submit/part1/Gaussian.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Gaussian" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hw2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gaussian.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="KMeans (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hw2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/submit/part1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/submit/part1/KMeans.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sklearnGMM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hw2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/submit/part2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/submit/part2/sklearnGMM.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sklearnKM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hw2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/submit/part2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/submit/part2/sklearnKM.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sklearnKM" />
+        <item itemvalue="Python.sklearnGMM" />
+        <item itemvalue="Python.KMeans (1)" />
+        <item itemvalue="Python.Gaussian (1)" />
+        <item itemvalue="Python.Gaussian" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed8c1c5a-a456-4bd8-b4b8-723924f2ffdc" name="Default Changelist" comment="" />
+      <created>1581722244767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581722244767</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="135" y="48" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582406918231">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="135" y="48" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.727@0.23.1280.727" timestamp="1582406918231" />
+    <state width="1259" height="16" key="GridCell.Tab.0.bottom" timestamp="1582407706749">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="1259" height="16" key="GridCell.Tab.0.bottom/0.23.1280.727@0.23.1280.727" timestamp="1582407706749" />
+    <state width="1259" height="72" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1582407607544" />
+    <state width="1259" height="155" key="GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729" timestamp="1582236540015" />
+    <state width="1259" height="318" key="GridCell.Tab.0.bottom/0.23.1280.730@0.23.1280.730" timestamp="1582242911125" />
+    <state width="1259" height="16" key="GridCell.Tab.0.center" timestamp="1582407706749">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="1259" height="16" key="GridCell.Tab.0.center/0.23.1280.727@0.23.1280.727" timestamp="1582407706749" />
+    <state width="1259" height="72" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1582407607543" />
+    <state width="1259" height="155" key="GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729" timestamp="1582236540014" />
+    <state width="1259" height="318" key="GridCell.Tab.0.center/0.23.1280.730@0.23.1280.730" timestamp="1582242911125" />
+    <state width="1259" height="16" key="GridCell.Tab.0.left" timestamp="1582407706749">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="1259" height="16" key="GridCell.Tab.0.left/0.23.1280.727@0.23.1280.727" timestamp="1582407706749" />
+    <state width="1259" height="72" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1582407607543" />
+    <state width="1259" height="155" key="GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729" timestamp="1582236540014" />
+    <state width="1259" height="318" key="GridCell.Tab.0.left/0.23.1280.730@0.23.1280.730" timestamp="1582242911124" />
+    <state width="1259" height="16" key="GridCell.Tab.0.right" timestamp="1582407706749">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="1259" height="16" key="GridCell.Tab.0.right/0.23.1280.727@0.23.1280.727" timestamp="1582407706749" />
+    <state width="1259" height="72" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1582407607544" />
+    <state width="1259" height="155" key="GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729" timestamp="1582236540014" />
+    <state width="1259" height="318" key="GridCell.Tab.0.right/0.23.1280.730@0.23.1280.730" timestamp="1582242911125" />
+    <state x="141" y="26" key="SettingsEditor" timestamp="1581722886547">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="141" y="26" key="SettingsEditor/0.23.1280.727@0.23.1280.727" timestamp="1581722886547" />
+    <state x="443" y="23" width="837" height="727" key="find.popup" timestamp="1582407473356">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="443" y="23" width="837" height="727" key="find.popup/0.23.1280.727@0.23.1280.727" timestamp="1582407473356" />
+    <state x="443" y="23" width="837" height="728" key="find.popup/0.23.1280.728@0.23.1280.728" timestamp="1582313416192" />
+  </component>
+</project>

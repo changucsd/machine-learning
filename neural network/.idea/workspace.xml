@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41034ef7-9e33-4ac2-b099-2b2c5d351f90" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Zv5iHbRsWjscCdFbEiFtulz6qA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.NeuralNetwork">
+    <configuration name="NN" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hw5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="NN_sklearn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hw5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NN_sklearn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="NeuralNetwork" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hw5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NeuralNetwork.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="onlineNN" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hw5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/onlineNN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.NeuralNetwork" />
+        <item itemvalue="Python.NN_sklearn" />
+        <item itemvalue="Python.NN" />
+        <item itemvalue="Python.onlineNN" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41034ef7-9e33-4ac2-b099-2b2c5d351f90" name="Default Changelist" comment="" />
+      <created>1585706852880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585706852880</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1259" height="162" key="GridCell.Tab.0.bottom" timestamp="1586459603500">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="1259" height="162" key="GridCell.Tab.0.bottom/0.23.1280.726@0.23.1280.726" timestamp="1586459603500" />
+    <state width="1259" height="419" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1586301017785" />
+    <state width="1259" height="111" key="GridCell.Tab.0.bottom/0.23.1280.730@0.23.1280.730" timestamp="1586303143398" />
+    <state width="1259" height="162" key="GridCell.Tab.0.center" timestamp="1586459603499">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="1259" height="162" key="GridCell.Tab.0.center/0.23.1280.726@0.23.1280.726" timestamp="1586459603499" />
+    <state width="1259" height="419" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1586301017785" />
+    <state width="1259" height="111" key="GridCell.Tab.0.center/0.23.1280.730@0.23.1280.730" timestamp="1586303143397" />
+    <state width="1259" height="162" key="GridCell.Tab.0.left" timestamp="1586459603499">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="1259" height="162" key="GridCell.Tab.0.left/0.23.1280.726@0.23.1280.726" timestamp="1586459603499" />
+    <state width="1259" height="419" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1586301017784" />
+    <state width="1259" height="111" key="GridCell.Tab.0.left/0.23.1280.730@0.23.1280.730" timestamp="1586303143394" />
+    <state width="1259" height="162" key="GridCell.Tab.0.right" timestamp="1586459603500">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="1259" height="162" key="GridCell.Tab.0.right/0.23.1280.726@0.23.1280.726" timestamp="1586459603500" />
+    <state width="1259" height="419" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1586301017785" />
+    <state width="1259" height="111" key="GridCell.Tab.0.right/0.23.1280.730@0.23.1280.730" timestamp="1586303143398" />
+    <state x="141" y="25" key="SettingsEditor" timestamp="1585706880654">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="141" y="25" key="SettingsEditor/0.23.1280.726@0.23.1280.726" timestamp="1585706880654" />
+  </component>
+</project>
